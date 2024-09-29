@@ -1,3 +1,5 @@
+// React assignment to create search bar to find data from dataset by typing in that serch bar
+
 import { useState } from "react"
 
 const data = [
